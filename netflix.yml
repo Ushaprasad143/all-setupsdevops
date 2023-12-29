@@ -11,5 +11,5 @@
 
     - name: git checkout
       git:
-        repo: "https://github.com/CleverProgrammers/pwj-netflix-clone.git"
+        repo: "https://github.com/Ushaprasad143/Ansible-Frontendcode-Deploy-project-pwj-netflix-clone.git"
         dest: "/var/www/html"
